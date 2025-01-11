@@ -1,0 +1,2 @@
+source web_text/bin/activate
+streamlit run main.py
